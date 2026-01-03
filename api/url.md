@@ -1,1 +1,1 @@
-http://192.168.7.24:8005
+http://hbizapos.duckdns.org:8005
