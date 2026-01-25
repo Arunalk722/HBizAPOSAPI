@@ -1,1 +1,0 @@
-http://hbizapos.duckdns.org:8005
